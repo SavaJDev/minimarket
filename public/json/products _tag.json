@@ -1,0 +1,186 @@
+[
+	{
+		"balls" : [
+			{
+				"id": 1,
+				"name": "Мяч для американского футбола",
+				"img": "../assets/img_section_balls/amer_football.jpg",
+				"price": 530,
+				"short_description": "Краткое описание товара"	
+			},
+			{
+				"id": 2,
+				"name": "Мяч для баскетбола",
+				"img": "../assets/img_section_balls/basketball.jpg",
+				"price": 630,
+				"short_description": "Краткое описание товара"	
+			},
+			{
+				"id": 3,
+				"name": "Мяч для футбола",
+				"img": "../assets/img_section_balls/football.jpg",
+				"price": 450,
+				"short_description": "Краткое описание товара"	
+			},
+			{
+				"id": 4,
+				"name": "Мяч для хоккея",
+				"img": "../assets/img_section_balls/hockey.jpg",
+				"price": 280,
+				"short_description": "Краткое описание товара"	
+			},
+			{
+				"id": 5,
+				"name": "Мяч для волейбола",
+				"img": "../assets/img_section_balls/volleyball.jpg",
+				"price": 870,
+				"short_description": "Краткое описание товара"	
+			},
+			{
+				"id": 6,
+				"name": "Мяч для водного поло",
+				"img": "../assets/img_section_balls/water_polo.jpg",
+				"price": 140,
+				"short_description": "Краткое описание товара"	
+			}
+		]
+	},
+	{
+		"trainer": [
+			{
+				"id": 7,
+				"name": "Велотренажер",
+				"img": "../assets/img_section_trainer/exercise_bike.jpg",
+				"price": 9500,
+				"short_description": "Краткое описание товара"	
+			},
+			{
+				"id": 8,
+				"name": "Беговая дорожка",
+				"img": "../assets/img_section_trainer/treadmill.jpg",
+				"price": 21400,
+				"short_description": "Краткое описание товара"	
+			},
+			{
+				"id": 9,
+				"name": "Гребной тренажер",
+				"img": "../assets/img_section_trainer/rowing_machine.jpg",
+				"price": 14800,
+				"short_description": "Краткое описание товара"	
+			},
+			{
+				"id": 10,
+				"name": "Бусья",
+				"img": "../assets/img_section_trainer/balk.jpg",
+				"price": 4800,
+				"short_description": "Краткое описание товара"	
+			},
+			{
+				"id": 11,
+				"name": "Стойка для штанги",
+				"img": "../assets/img_section_trainer/rack.jpg",
+				"price": 6300,
+				"short_description": "Краткое описание товара"	
+			},
+			{
+				"id": 12,
+				"name": "Скамья атлетическая",
+				"img": "../assets/img_section_trainer/bench.jpg",
+				"price": 10260,
+				"short_description": "Краткое описание товара"	
+			}
+		]
+	},
+	{
+		"sportswear": [
+			{
+				"id": 13,
+				"name": "Куртка мужская",
+				"img": "../assets/img_section_sportswear/jacket_m.jpg",
+				"price": 5800,
+				"short_description": "Краткое описание товара"	
+			},
+			{
+				"id": 14,
+				"name": "Куртка женская",
+				"img": "../assets/img_section_sportswear/jacket_g.jpg",
+				"price": 6100,
+				"short_description": "Краткое описание товара"	
+			},
+			{
+				"id": 15,
+				"name": "Костюм мужской",
+				"img": "../assets/img_section_sportswear/costume_m.jpg",
+				"price": 3200,
+				"short_description": "Краткое описание товара"	
+			},
+			{
+				"id": 16,
+				"name": "Костюм женский",
+				"img": "../assets/img_section_sportswear/costume_g.jpg",
+				"price": 3500,
+				"short_description": "Краткое описание товара"	
+			},
+			{
+				"id": 17,
+				"name": "Куртка детская",
+				"img": "../assets/img_section_sportswear/jacket_child.jpg",
+				"price": 2400,
+				"short_description": "Краткое описание товара"	
+			},
+			{
+				"id": 18,
+				"name": "Футболка",
+				"img": "../assets/img_section_sportswear/tshirt.jpg",
+				"price": 5800,
+				"short_description": "Краткое описание товара"	
+			}
+		]
+	},
+	{
+		"food": [
+			{
+				"id": 19,
+				"name": "Протеин",
+				"img": "../assets/img_section_food/protein.jpg",
+				"price": 2100,
+				"short_description": "Краткое описание товара"	
+			},
+			{
+				"id": 20,
+				"name": "Креатин",
+				"img": "../assets/img_section_food/creatine.jpg",
+				"price": 1800,
+				"short_description": "Краткое описание товара"	
+			},
+			{
+				"id": 21,
+				"name": "Гейнер",
+				"img": "../assets/img_section_food/gainer.jpg",
+				"price": 3200,
+				"short_description": "Краткое описание товара"	
+			},
+			{
+				"id": 22,
+				"name": "BCAA",
+				"img": "../assets/img_section_food/BCAA.jpg",
+				"price": 980,
+				"short_description": "Краткое описание товара"	
+			},
+			{
+				"id": 23,
+				"name": "Мультивитамины",
+				"img": "../assets/img_section_food/multivitamin.jpg",
+				"price": 1500,
+				"short_description": "Краткое описание товара"	
+			},
+			{
+				"id": 24,
+				"name": "Аминокислота",
+				"img": "../assets/img_section_food/amino-acid.jpg",
+				"price": 1340,
+				"short_description": "Краткое описание товара"	
+			}
+		]
+	}
+]
